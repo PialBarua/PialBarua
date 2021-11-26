@@ -26,6 +26,8 @@ Skills: HTML
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/PialBarua)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/PialBarua)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PialBarua&layout=compact)](https://github.com/PialBarua/github-readme-stats)
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/PialBarua)  
 
