@@ -30,3 +30,5 @@ Skills: HTML
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/PialBarua)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/PialBarua)  
+![PialBarua GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
